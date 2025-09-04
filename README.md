@@ -120,9 +120,6 @@ Push to branch: git push origin feature/your-feature
 
 Create a Pull Request.
 
-License
 
-MIT License © 2025
-Feel free to use, modify, and distribute.
 
-✅ This README is GitHub-ready, provides clear instructions for anyone to clone, install, and run your chatbot project.
+
